@@ -14,5 +14,5 @@ class Book extends Model
      *
      * @var array<int, string>
      */
-    protected $fillable = ['title', 'author_id', 'publisher_id']; // [cite: 375]
+    protected $fillable = ['title', 'author_id', 'publisher_id'];
 }

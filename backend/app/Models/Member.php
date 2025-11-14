@@ -14,5 +14,5 @@ class Member extends Model
      *
      * @var array<int, string>
      */
-    protected $fillable = ['name', 'email', 'phone']; // [cite: 371]
+    protected $fillable = ['name', 'email', 'phone'];
 }

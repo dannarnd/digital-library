@@ -14,5 +14,5 @@ class Author extends Model
      *
      * @var array<int, string>
      */
-    protected $fillable = ['name']; // [cite: 373]
+    protected $fillable = ['name'];
 }
